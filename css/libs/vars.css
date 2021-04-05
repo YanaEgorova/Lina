@@ -1,0 +1,26 @@
+:root {
+  --main-color: #000;
+  --semi-color: #fff;
+  --slider-btn-color-yell: #ffb92f;
+  --slider-btn-color-green: #5bbbbb;
+  --slider-btn-color-blue: #3f8dfe;
+  --link-color: #0d6fec;
+  --btn-color: #ff4c75;
+  --btn-hover-color: #ec3063;
+  --semi-design-color: #d5d5d5;
+  --title-color: #343435;
+  --main-text-color: #252527;
+  --semi-text-color: #757575;
+  --footer-text-color: #999999;
+  --footer-color: #a1a1a1;
+  --footer-hover-color: #242425;
+  --contacts-text-color: #1f1f20;
+  --gray-block-color: #ebebeb;
+  --slider-title-color: #4a4a4a;
+  --sub-color: #9b9b9b;
+  --sub-sub-color: #d8d8d8;
+  --warning-color: #ff5554;
+  --opensans-font: 'Open Sans', sans-serif;
+
+  font-size: 62.5%;
+}

@@ -1,0 +1,10 @@
+@import './libs/normalize';
+@import './fonts.css';
+@import './libs/utils.css';
+@import './libs/vars.css';
+@import './header.css';
+@import './footer.css';
+@import './home-page.css';
+@import './animation.css';
+@import './animationElement.css';
+@import './contacts.css';

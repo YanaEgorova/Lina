@@ -1,0 +1,71 @@
+.animation-element_section {
+  padding: 3.1rem 2rem 3.4rem 2rem;
+  font-family: var(--opensans-font);
+  text-align: center;
+}
+
+.animation-element_section-title {
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.47;
+  color: var(--title-color);
+  margin-bottom: 3.6rem;
+}
+
+.animation-element_section-gif {
+  width: 100%;
+  height: auto;
+  border-radius: 1.2rem;
+  -webkit-border-radius: 1.2rem;
+  -moz-border-radius: 1.2rem;
+  -ms-border-radius: 1.2rem;
+  -o-border-radius: 1.2rem;
+}
+
+.animation-element_section-gif-box {
+  position: relative;
+  margin-bottom: 3.1rem;
+}
+
+.animation-element_section-svg {
+  position: absolute;
+  top: 1.4rem;
+  left: 1.5rem;
+  width: 2.6rem;
+  height: 1.5rem;
+  fill: var(--semi-color);
+  fill-opacity: .8;
+}
+
+.animation-element_section-span,
+.animation-element_section-text {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.39;
+  letter-spacing: 0.02rem;
+  color: var(--main-text-color);
+}
+
+.animation-element_section-text {
+  line-height: 2.5rem;
+}
+
+.animation-element_section-span {
+  display: block;
+  margin-bottom: 2rem;
+}
+
+.animation-element_section-link {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 2.5rem;
+  letter-spacing: 0.02rem;
+  color: var(--link-color);
+}
+
+@media screen and (min-width: 768px) {
+  .animation-section_link {
+    pointer-events: none;
+
+  }
+}
